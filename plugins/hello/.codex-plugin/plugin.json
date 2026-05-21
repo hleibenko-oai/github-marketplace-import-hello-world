@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "description": "A tiny hello world plugin.",
+  "interface": {
+    "displayName": "Hello",
+    "shortDescription": "Says hello",
+    "longDescription": "A tiny hello world plugin by John Doe.",
+    "developerName": "John Doe",
+    "category": "productivity",
+    "capabilities": [],
+    "defaultPrompt": "Say hello."
+  },
+  "author": {
+    "name": "John Doe"
+  }
+}

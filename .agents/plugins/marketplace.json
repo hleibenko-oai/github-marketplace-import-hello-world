@@ -1,0 +1,19 @@
+{
+  "name": "johns-little-market",
+  "interface": {
+    "displayName": "John's Little Market"
+  },
+  "plugins": [
+    {
+      "name": "hello",
+      "source": {
+        "source": "local",
+        "path": "./plugins/hello"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
