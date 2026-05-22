@@ -2,6 +2,7 @@
   "name": "hello",
   "version": "0.0.1",
   "description": "A tiny hello world plugin.",
+  "skills": "./skills/",
   "interface": {
     "displayName": "Hello",
     "shortDescription": "Says hello",
