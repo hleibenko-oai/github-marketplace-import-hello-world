@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Trail Docs">
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="#285943"/>
+  <path d="M38 96 62 34l13 32 9-18 16 48Z" fill="#F3E8C8"/>
+  <path d="M57 96c1-12 8-21 21-29" fill="none" stroke="#D97732" stroke-linecap="round" stroke-width="8"/>
+  <circle cx="79" cy="66" r="5" fill="#D97732"/>
+</svg>

@@ -5,14 +5,14 @@
   },
   "plugins": [
     {
-      "name": "hello",
+      "name": "trail-docs",
       "source": {
         "source": "local",
-        "path": "./plugins/hello"
+        "path": "./plugins/trail-docs"
       },
       "policy": {
         "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
+        "authentication": "ON_USE"
       }
     }
   ]
