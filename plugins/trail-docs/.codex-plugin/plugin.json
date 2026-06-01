@@ -1,0 +1,21 @@
+{
+  "name": "trail-docs",
+  "version": "0.1.0",
+  "description": "Create shareable trail guides with AllTrails and Notion.",
+  "skills": "./skills/",
+  "apps": "./.app.json",
+  "interface": {
+    "displayName": "Trail Docs",
+    "shortDescription": "Create trail guides with AllTrails and Notion",
+    "longDescription": "Research hikes with AllTrails and create shareable trail-planning docs in Notion.",
+    "developerName": "John Doe",
+    "category": "lifestyle",
+    "capabilities": [],
+    "composerIcon": "./assets/trail-docs.svg",
+    "logo": "./assets/trail-docs.svg",
+    "defaultPrompt": "Find a scenic hike near San Francisco and create a Notion trail guide with a packing checklist."
+  },
+  "author": {
+    "name": "John Doe"
+  }
+}
