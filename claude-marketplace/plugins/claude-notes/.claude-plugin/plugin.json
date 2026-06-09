@@ -1,0 +1,8 @@
+{
+  "name": "claude-notes",
+  "description": "A minimal Claude-format plugin fixture for GitHub marketplace import tests.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Henry Leibenko"
+  }
+}

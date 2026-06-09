@@ -1,0 +1,12 @@
+{
+  "name": "claude-fixture-marketplace",
+  "owner": {
+    "name": "Henry Leibenko"
+  },
+  "plugins": [
+    {
+      "name": "claude-notes",
+      "source": "./plugins/claude-notes"
+    }
+  ]
+}
