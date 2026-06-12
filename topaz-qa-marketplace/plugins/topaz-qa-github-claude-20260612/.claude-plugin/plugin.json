@@ -1,7 +1,7 @@
 {
   "name": "topaz-qa-github-claude-20260612",
-  "version": "1.0.0",
-  "description": "GitHub-imported Claude conversion and source-refresh fixture for Topaz staging QA.",
+  "version": "2.0.0",
+  "description": "GitHub-imported Claude conversion and source-refresh fixture for Topaz staging QA, refreshed to v2.",
   "author": {
     "name": "Topaz Workspace QA"
   }
