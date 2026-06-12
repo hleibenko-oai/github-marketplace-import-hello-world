@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "github": {
+      "url": "https://api.github.com/mcp"
+    }
+  }
+}

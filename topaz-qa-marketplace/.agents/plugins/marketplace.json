@@ -1,0 +1,12 @@
+{
+  "name": "topaz-qa-claude-refresh-marketplace-20260612",
+  "plugins": [
+    {
+      "name": "topaz-qa-github-claude-20260612",
+      "source": {
+        "source": "local",
+        "path": "./plugins/topaz-qa-github-claude-20260612"
+      }
+    }
+  ]
+}
