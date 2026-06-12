@@ -1,0 +1,1 @@
+inert compare-truncation fixture 048
