@@ -1,0 +1,3 @@
+Unrelated source-history marker for Topaz staging QA.
+
+This file is intentionally outside the marketplace manifest and imported plugin subtree.
